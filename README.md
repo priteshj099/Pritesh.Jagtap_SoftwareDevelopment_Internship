@@ -129,10 +129,10 @@ The API includes a global exception handler that returns appropriate HTTP status
 - Spring Boot Starter Test (for testing)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is not licensed.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## Contact
-For any inquiries, please contact [your-email@example.com].
+For any inquiries, please contact [priteshj099@gmail.com].
